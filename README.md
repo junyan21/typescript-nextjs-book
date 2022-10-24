@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+書籍「TypeScriptとReact-Next.jsで作る 実践Webアプリケーション開発」で、プロジェクト構成とLinterの設定を実施。  
+なにかのテストで使ったり。
+
 ## Getting Started
 
 First, run the development server:
